@@ -28,9 +28,7 @@ public class MainActivity extends AppCompatActivity {
         public ObservableField<String> firstName = new ObservableField<>();
         public ObservableField<String> lastName = new ObservableField<>();
         public ObservableField<String> helloText = new ObservableField<>();
-
         public ObservableBoolean helloButtonEnabled = new ObservableBoolean(false);
-
 
         public MainViewModel() {
 
