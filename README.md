@@ -37,3 +37,4 @@ public static class MainViewModel {
 
 You find ```toObservable``` method implementation in [RxUtils.java](https://github.com/TangoAgency/android-data-binding-rxjava/blob/master/app/src/main/java/agency/tango/databindingrxjava/RxUtils.java) class.
 
+It uses ObservableField's ```OnPropertyChangedCallback``` and expose property change events to the "RxWorld".
