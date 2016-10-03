@@ -1,5 +1,7 @@
 # android-data-binding-rxjava
 
+[![Android Arsenal android-data-binding-rxjava](https://img.shields.io/badge/Android%20Arsenal-android--data--binding--rxjava-green.svg?style=true)](https://android-arsenal.com/details/3/4369)
+
 Simple demo which demonstrates how to wrap Android DataBinding ObservableField into RxJava's Observable.
 
 With this solution it is possible to register for ObservableField's value changes and use it with RxJava operators.
