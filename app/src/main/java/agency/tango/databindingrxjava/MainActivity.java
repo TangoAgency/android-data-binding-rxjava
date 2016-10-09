@@ -1,6 +1,5 @@
 package agency.tango.databindingrxjava;
 
-import android.app.Activity;
 import android.databinding.DataBindingUtil;
 import android.databinding.ObservableBoolean;
 import android.databinding.ObservableField;
