@@ -31,6 +31,8 @@ android {
 
     lintOptions {
         disable 'GoogleAppIndexingWarning','TypographyQuotes'
+        textReport true
+        textOutput 'stdout'
     }
 }
 
