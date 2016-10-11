@@ -37,8 +37,8 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.android.support:design:24.2.1'
-    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
-    compile 'com.android.support.constraint:constraint-layout-solver:1.0.0-alpha7'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha9'
+    compile 'com.android.support.constraint:constraint-layout-solver:1.0.0-alpha9'
     compile "io.reactivex:rxjava:1.1.10"
 
     testCompile 'junit:junit:4.12'
