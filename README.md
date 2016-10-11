@@ -1,6 +1,7 @@
 # android-data-binding-rxjava
 
 [![Android Arsenal android-data-binding-rxjava](https://img.shields.io/badge/Android%20Arsenal-android--data--binding--rxjava-green.svg?style=true)](https://android-arsenal.com/details/3/4369)
+[![Build Status](https://travis-ci.org/TangoAgency/android-data-binding-rxjava.svg?branch=master)](https://travis-ci.org/TangoAgency/android-data-binding-rxjava)
 
 Simple demo developed with love at [Tango](http://tango.agency) which demonstrates how to wrap Android DataBinding ObservableField into RxJava's Observable.
 
