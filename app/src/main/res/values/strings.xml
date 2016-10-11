@@ -1,6 +1,5 @@
 <resources>
     <string name="txt_app_name">Android Data Binding &amp; RxJava</string>
-    <string name="menu_action_settings">Settings</string>
     <string name="btn_hello">Say Hello</string>
     <string name="hint_firstname">First Name</string>
     <string name="hint_lastname">Lastname</string>
