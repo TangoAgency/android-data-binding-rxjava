@@ -1,5 +1,6 @@
 # android-data-binding-rxjava
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/68527924d04743ad88a4048cc2641fdc)](https://www.codacy.com/app/TangoAgency/android-data-binding-rxjava?utm_source=github.com&utm_medium=referral&utm_content=TangoAgency/android-data-binding-rxjava&utm_campaign=badger)
 [![Android Arsenal android-data-binding-rxjava](https://img.shields.io/badge/Android%20Arsenal-android--data--binding--rxjava-green.svg?style=true)](https://android-arsenal.com/details/3/4369)
 [![Build Status](https://travis-ci.org/TangoAgency/android-data-binding-rxjava.svg?branch=master)](https://travis-ci.org/TangoAgency/android-data-binding-rxjava)
 
